@@ -30,7 +30,10 @@ def llprint(lst):
 if __name__ == "__main__":
 
     llist=LList()
-    length(llist)
-    llprint(llist)
+    from genfinite import lst
+    length(lst)
+    
+    
+
     
     
